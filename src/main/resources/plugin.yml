@@ -1,0 +1,7 @@
+name: SaehyeonTNTTag
+version: '${project.version}'
+main: me.saehyeon.main.TNTTag
+api-version: 1.17
+authors: [ Saehyeon ]
+commands:
+  tnt:
